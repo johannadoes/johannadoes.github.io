@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/johannadoes.github.io/static/css/main.627ed8d3.css",
+    "main.js": "/johannadoes.github.io/static/js/main.f27dd4af.js",
+    "static/js/787.749b4a44.chunk.js": "/johannadoes.github.io/static/js/787.749b4a44.chunk.js",
+    "static/media/FotoJohannaDoppler.jpg": "/johannadoes.github.io/static/media/FotoJohannaDoppler.1d2181a314b4c7d7a0a9.jpg",
+    "static/media/analysing.png": "/johannadoes.github.io/static/media/analysing.2412b747fb49d21f5261.png",
+    "static/media/CV page1.png": "/johannadoes.github.io/static/media/CV page1.f28eb361e90c7b6f51f1.png",
+    "static/media/CV page2.png": "/johannadoes.github.io/static/media/CV page2.187eb0a14bbc24f9a1f9.png",
+    "static/media/CV page3.png": "/johannadoes.github.io/static/media/CV page3.9d15e4cc53bdd93c8d2c.png",
+    "static/media/bonsai.png": "/johannadoes.github.io/static/media/bonsai.eada884b0bf97a607f3d.png",
+    "static/media/zen-stones.png": "/johannadoes.github.io/static/media/zen-stones.ac12a41c5ce06d22a852.png",
+    "static/media/matcha.png": "/johannadoes.github.io/static/media/matcha.9f81828a64e9f288d198.png",
+    "static/media/mail2.png": "/johannadoes.github.io/static/media/mail2.284efa973257daeba971.png",
+    "index.html": "/johannadoes.github.io/index.html",
+    "main.627ed8d3.css.map": "/johannadoes.github.io/static/css/main.627ed8d3.css.map",
+    "main.f27dd4af.js.map": "/johannadoes.github.io/static/js/main.f27dd4af.js.map",
+    "787.749b4a44.chunk.js.map": "/johannadoes.github.io/static/js/787.749b4a44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.627ed8d3.css",
+    "static/js/main.f27dd4af.js"
+  ]
+}

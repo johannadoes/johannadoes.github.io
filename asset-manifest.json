@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/johannadoes.github.io/static/css/main.627ed8d3.css",
-    "main.js": "/johannadoes.github.io/static/js/main.ff5bc624.js",
-    "static/js/787.749b4a44.chunk.js": "/johannadoes.github.io/static/js/787.749b4a44.chunk.js",
+    "main.js": "/johannadoes.github.io/static/js/main.d2380548.js",
+    "static/js/787.7dc73e1e.chunk.js": "/johannadoes.github.io/static/js/787.7dc73e1e.chunk.js",
     "static/media/FotoJohannaDoppler.jpg": "/johannadoes.github.io/static/media/FotoJohannaDoppler.1d2181a314b4c7d7a0a9.jpg",
     "static/media/analysing.png": "/johannadoes.github.io/static/media/analysing.2412b747fb49d21f5261.png",
     "static/media/CV page1.png": "/johannadoes.github.io/static/media/CV page1.f28eb361e90c7b6f51f1.png",
@@ -14,11 +14,11 @@
     "static/media/mail2.png": "/johannadoes.github.io/static/media/mail2.284efa973257daeba971.png",
     "index.html": "/johannadoes.github.io/index.html",
     "main.627ed8d3.css.map": "/johannadoes.github.io/static/css/main.627ed8d3.css.map",
-    "main.ff5bc624.js.map": "/johannadoes.github.io/static/js/main.ff5bc624.js.map",
-    "787.749b4a44.chunk.js.map": "/johannadoes.github.io/static/js/787.749b4a44.chunk.js.map"
+    "main.d2380548.js.map": "/johannadoes.github.io/static/js/main.d2380548.js.map",
+    "787.7dc73e1e.chunk.js.map": "/johannadoes.github.io/static/js/787.7dc73e1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.627ed8d3.css",
-    "static/js/main.ff5bc624.js"
+    "static/js/main.d2380548.js"
   ]
 }
